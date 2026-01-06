@@ -1,0 +1,5 @@
+{
+  "name": "Client Tracker Pro Dashboard",
+  "description": "A high-fidelity recreation of the ABC Consulting Client Dashboard using React, Tailwind CSS, and Recharts.",
+  "requestFramePermissions": []
+}
